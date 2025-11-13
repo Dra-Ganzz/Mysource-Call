@@ -6,7 +6,7 @@ SCRIPT Mysource-Call - Spam Otp Call Open source 🥰 Tanks.
 # Install Termux
 ```
 cd $HOME
-rm -rf Mybot-Call
+rm -rf Mysource-Call
 apt update && apt upgrade
 apt install make clang
 apt install wget curl
