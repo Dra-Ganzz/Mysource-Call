@@ -21,4 +21,4 @@ update:
 run:
 	@git pull
 	@echo "[+] Lagi Di Run Sabar Ya"
-	@python3 Src/maincal.py
+	@python3 Src/maincall.py
